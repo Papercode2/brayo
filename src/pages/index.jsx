@@ -66,9 +66,7 @@ function Index() {
 
             <div className="col-lg-6 col-12 mt-5 mt-lg-0">
                 <div className="about-thumb">
-                    <div class="profile-handle">
-                        <img src="assets/images/comter.jpg" alt="Profile Handle" class="profile-handle-image"/>
-                    </div>
+                   
                     <h3 className="pt-2 mb-3">About Me</h3>
                     <p>My name is Brian Maweu, and I was born in Makindu, a small town in Eastern Kenya. I pursued a Bachelor's degree in Information Technology at Kenya Highlands University.</p>
                     <p>I am a passionate full-stack developer with expertise in a wide range of technologies and frameworks. I enjoy building innovative solutions that solve real-world problems and enhance user experiences.</p>
@@ -90,48 +88,29 @@ function Index() {
                 <div className="card">
                     <img src="assets/images/computer.jpg" className="card-img-top" alt="Project 1" />
                     <div className="card-body">
-                        <h5 className="card-title">Project 1</h5>
-                        <p className="card-text">Description of Project 1</p>
+                        <h5 className="card-title">REMORENA WEBSITE</h5>
+                        <p className="card-text">An online Shopping center.</p>
                     </div>
                 </div>
             </div>
             
             <div className="col-md-4">
                 <div className="card">
-                    <img src="assets/images/project2.jpg" className="card-img-top" alt="Project 2" />
+                    <img src="assets/images/clients/shopify.svg" className="card-img-top" alt="Project 2" />
                     <div className="card-body">
-                        <h5 className="card-title">Project 2</h5>
-                        <p className="card-text">Description of Project 2</p>
+                        <p className="card-text">Online shop</p>
                     </div>
                 </div>
             </div>
             <div className="col-md-4">
                 <div className="card">
-                    <img src="assets/images/project3.jpg" className="card-img-top" alt="Project 3" />
+                    <img src="assets/images/clients/happy.svg" className="card-img-top" alt="Project 3" />
                     <div className="card-body">
-                        <h5 className="card-title">Project 3</h5>
-                        <p className="card-text">Description of Project 3</p>
+                        <p className="card-text">Music school</p>
                     </div>
                 </div>
             </div>
-            <div className="col-md-4">
-                <div className="card">
-                    <img src="assets/images/project4.jpg" className="card-img-top" alt="Project 4" />
-                    <div className="card-body">
-                        <h5 className="card-title">Project 4</h5>
-                        <p className="card-text">Description of Project 4</p>
-                    </div>
-                </div>
-            </div>
-            <div className="col-md-4">
-                <div className="card">
-                    <img src="assets/images/project5.jpg" className="card-img-top" alt="Project 5" />
-                    <div className="card-body">
-                        <h5 className="card-title">Project 5</h5>
-                        <p className="card-text">Description of Project 5</p>
-                    </div>
-                </div>
-            </div>
+            
         </div>
     </div>
 </section>
