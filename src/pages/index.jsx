@@ -226,7 +226,7 @@ function Index() {
         <h2>Contact Me</h2>
         <div className="row">
           <div className="col-md-6">
-            <form>
+          <form action="https://formspree.io/f/meqypepe" method="POST" class="custom-form contact-form" role="form">
               <div className="mb-3">
                 <label htmlFor="fullName" className="form-label">Full Name</label>
                 <input type="text" className="form-control" id="fullName" />
